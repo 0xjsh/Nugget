@@ -1,3 +1,5 @@
+i just added a option for internal storage, nothing els
+
 # CODENAME Nugget
 Unlock your device's full potential! Works on all versions iOS 17.0+
 
